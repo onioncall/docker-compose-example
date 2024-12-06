@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/TestSite.AuthService.Api.props" />
+</Project>

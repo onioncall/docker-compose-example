@@ -1,0 +1,288 @@
+{
+  "version": 2,
+  "dgSpecHash": "m/1BvJG8Rxg=",
+  "success": false,
+  "projectFilePath": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\orion.callaghan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\orion.callaghan\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'AutoMapper' from remote source 'https://packagesource1/FindPackagesById()?id='AutoMapper'&semVerLevel=2.0.0'.",
+      "libraryId": "AutoMapper"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'AutoMapper' from remote source 'https://packagesource1/FindPackagesById()?id='AutoMapper'&semVerLevel=2.0.0'.",
+      "libraryId": "AutoMapper"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Swashbuckle.AspNetCore' from remote source 'https://packagesource/FindPackagesById()?id='Swashbuckle.AspNetCore'&semVerLevel=2.0.0'.",
+      "libraryId": "Swashbuckle.AspNetCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.EntityFrameworkCore'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Swashbuckle.AspNetCore' from remote source 'https://packagesource/FindPackagesById()?id='Swashbuckle.AspNetCore'&semVerLevel=2.0.0'.",
+      "libraryId": "Swashbuckle.AspNetCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.EntityFrameworkCore'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Caching.Memory' from remote source 'https://packagesource1/FindPackagesById()?id='Microsoft.Extensions.Caching.Memory'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Caching.Memory"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Caching.Memory' from remote source 'https://packagesource1/FindPackagesById()?id='Microsoft.Extensions.Caching.Memory'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Caching.Memory"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'EFCore.NamingConventions' from remote source 'https://packagesource1/FindPackagesById()?id='EFCore.NamingConventions'&semVerLevel=2.0.0'.",
+      "libraryId": "EFCore.NamingConventions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'EFCore.NamingConventions' from remote source 'https://packagesource1/FindPackagesById()?id='EFCore.NamingConventions'&semVerLevel=2.0.0'.",
+      "libraryId": "EFCore.NamingConventions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'EFCore.NamingConventions' from remote source 'https://packagesource/FindPackagesById()?id='EFCore.NamingConventions'&semVerLevel=2.0.0'.",
+      "libraryId": "EFCore.NamingConventions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'EFCore.NamingConventions' from remote source 'https://packagesource/FindPackagesById()?id='EFCore.NamingConventions'&semVerLevel=2.0.0'.",
+      "libraryId": "EFCore.NamingConventions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Swashbuckle.AspNetCore' from remote source 'https://packagesource1/FindPackagesById()?id='Swashbuckle.AspNetCore'&semVerLevel=2.0.0'.",
+      "libraryId": "Swashbuckle.AspNetCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Swashbuckle.AspNetCore' from remote source 'https://packagesource1/FindPackagesById()?id='Swashbuckle.AspNetCore'&semVerLevel=2.0.0'.",
+      "libraryId": "Swashbuckle.AspNetCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore' from remote source 'https://packagesource1/FindPackagesById()?id='Microsoft.EntityFrameworkCore'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore' from remote source 'https://packagesource1/FindPackagesById()?id='Microsoft.EntityFrameworkCore'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'AutoMapper' from remote source 'https://packagesource/FindPackagesById()?id='AutoMapper'&semVerLevel=2.0.0'.",
+      "libraryId": "AutoMapper"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'AutoMapper' from remote source 'https://packagesource/FindPackagesById()?id='AutoMapper'&semVerLevel=2.0.0'.",
+      "libraryId": "AutoMapper"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Abstractions' from remote source 'https://packagesource1/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Abstractions' from remote source 'https://packagesource1/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Analyzers' from remote source 'https://packagesource1/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Analyzers'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Analyzers"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Analyzers' from remote source 'https://packagesource1/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Analyzers'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Analyzers"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Logging.Abstractions' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.Extensions.Logging.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Logging.Abstractions' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.Extensions.Logging.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Primitives' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.Extensions.Primitives'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Primitives' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.Extensions.Primitives'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Options' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.Extensions.Options'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Options"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Options' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.Extensions.Options'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Options"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Logging' from remote source 'https://packagesource1/FindPackagesById()?id='Microsoft.Extensions.Logging'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Logging' from remote source 'https://packagesource1/FindPackagesById()?id='Microsoft.Extensions.Logging'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Analyzers' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Analyzers'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Analyzers"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Analyzers' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Analyzers'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Analyzers"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Abstractions' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Abstractions' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Caching.Memory' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.Extensions.Caching.Memory'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Caching.Memory"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Caching.Memory' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.Extensions.Caching.Memory'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Caching.Memory"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Logging.Abstractions' from remote source 'https://packagesource1/FindPackagesById()?id='Microsoft.Extensions.Logging.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Logging.Abstractions' from remote source 'https://packagesource1/FindPackagesById()?id='Microsoft.Extensions.Logging.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Npgsql.EntityFrameworkCore.PostgreSQL' from remote source 'https://packagesource/FindPackagesById()?id='Npgsql.EntityFrameworkCore.PostgreSQL'&semVerLevel=2.0.0'.",
+      "libraryId": "Npgsql.EntityFrameworkCore.PostgreSQL"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Npgsql.EntityFrameworkCore.PostgreSQL' from remote source 'https://packagesource1/FindPackagesById()?id='Npgsql.EntityFrameworkCore.PostgreSQL'&semVerLevel=2.0.0'.",
+      "libraryId": "Npgsql.EntityFrameworkCore.PostgreSQL"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Npgsql.EntityFrameworkCore.PostgreSQL' from remote source 'https://packagesource/FindPackagesById()?id='Npgsql.EntityFrameworkCore.PostgreSQL'&semVerLevel=2.0.0'.",
+      "libraryId": "Npgsql.EntityFrameworkCore.PostgreSQL"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Npgsql.EntityFrameworkCore.PostgreSQL' from remote source 'https://packagesource1/FindPackagesById()?id='Npgsql.EntityFrameworkCore.PostgreSQL'&semVerLevel=2.0.0'.",
+      "libraryId": "Npgsql.EntityFrameworkCore.PostgreSQL"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Logging.Abstractions' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.Extensions.Logging.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Logging.Abstractions' from remote source 'https://packagesource1/FindPackagesById()?id='Microsoft.Extensions.Logging.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Logging.Abstractions' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.Extensions.Logging.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.Extensions.Logging.Abstractions' from remote source 'https://packagesource1/FindPackagesById()?id='Microsoft.Extensions.Logging.Abstractions'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    }
+  ]
+}

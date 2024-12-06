@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ProductService",
+    "\\ProductService\\Application",
+    "\\ProductService\\Domain",
+    "\\ProductService\\Infrastructure"
+  ],
+  "SelectedNode": "\\ProductService\\TestSite.ProductService.Persistence",
+  "PreviewInSolutionExplorer": false
+}

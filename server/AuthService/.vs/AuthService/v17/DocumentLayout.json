@@ -1,0 +1,512 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.api\\appservices\\authappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|solutionrelative:testsite.authservice.api\\appservices\\authappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C104A77-DFC7-43B9-887C-8ECB4CBBA480}|TestSite.AuthService.Persistence\\TestSite.AuthService.Persistence.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.persistence\\respositories\\membercredentialsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C104A77-DFC7-43B9-887C-8ECB4CBBA480}|TestSite.AuthService.Persistence\\TestSite.AuthService.Persistence.csproj|solutionrelative:testsite.authservice.persistence\\respositories\\membercredentialsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A162D49-AAC7-41D5-8946-0C8BF7316201}|TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.domain\\entities\\membercredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A162D49-AAC7-41D5-8946-0C8BF7316201}|TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj|solutionrelative:testsite.authservice.domain\\entities\\membercredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|solutionrelative:testsite.authservice.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.api\\abstractions\\iauthappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|solutionrelative:testsite.authservice.api\\abstractions\\iauthappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A162D49-AAC7-41D5-8946-0C8BF7316201}|TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.domain\\testsite.authservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A162D49-AAC7-41D5-8946-0C8BF7316201}|TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj|solutionrelative:testsite.authservice.domain\\testsite.authservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C104A77-DFC7-43B9-887C-8ECB4CBBA480}|TestSite.AuthService.Persistence\\TestSite.AuthService.Persistence.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.persistence\\testsite.authservice.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1C104A77-DFC7-43B9-887C-8ECB4CBBA480}|TestSite.AuthService.Persistence\\TestSite.AuthService.Persistence.csproj|solutionrelative:testsite.authservice.persistence\\testsite.authservice.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.api\\testsite.authservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|solutionrelative:testsite.authservice.api\\testsite.authservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|solutionrelative:testsite.authservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.api\\testsite.authservice.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|solutionrelative:testsite.authservice.api\\testsite.authservice.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|solutionrelative:testsite.authservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|solutionrelative:testsite.authservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C104A77-DFC7-43B9-887C-8ECB4CBBA480}|TestSite.AuthService.Persistence\\TestSite.AuthService.Persistence.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.persistence\\contexts\\testsitecorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C104A77-DFC7-43B9-887C-8ECB4CBBA480}|TestSite.AuthService.Persistence\\TestSite.AuthService.Persistence.csproj|solutionrelative:testsite.authservice.persistence\\contexts\\testsitecorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C104A77-DFC7-43B9-887C-8ECB4CBBA480}|TestSite.AuthService.Persistence\\TestSite.AuthService.Persistence.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.persistence\\respositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C104A77-DFC7-43B9-887C-8ECB4CBBA480}|TestSite.AuthService.Persistence\\TestSite.AuthService.Persistence.csproj|solutionrelative:testsite.authservice.persistence\\respositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C65B061-4FCE-4F63-99F0-814DF540CED5}|TestSite.AuthService.Contract\\TestSite.AuthService.Contract.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.contract\\requests\\addmemberrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C65B061-4FCE-4F63-99F0-814DF540CED5}|TestSite.AuthService.Contract\\TestSite.AuthService.Contract.csproj|solutionrelative:testsite.authservice.contract\\requests\\addmemberrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A162D49-AAC7-41D5-8946-0C8BF7316201}|TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.domain\\args\\memberargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A162D49-AAC7-41D5-8946-0C8BF7316201}|TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj|solutionrelative:testsite.authservice.domain\\args\\memberargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.api\\serviceregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|solutionrelative:testsite.authservice.api\\serviceregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A162D49-AAC7-41D5-8946-0C8BF7316201}|TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.domain\\abstractions\\imembercredentialsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A162D49-AAC7-41D5-8946-0C8BF7316201}|TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj|solutionrelative:testsite.authservice.domain\\abstractions\\imembercredentialsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.api\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|solutionrelative:testsite.authservice.api\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A162D49-AAC7-41D5-8946-0C8BF7316201}|TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.domain\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A162D49-AAC7-41D5-8946-0C8BF7316201}|TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj|solutionrelative:testsite.authservice.domain\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A162D49-AAC7-41D5-8946-0C8BF7316201}|TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.domain\\entities\\departmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A162D49-AAC7-41D5-8946-0C8BF7316201}|TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj|solutionrelative:testsite.authservice.domain\\entities\\departmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A162D49-AAC7-41D5-8946-0C8BF7316201}|TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.domain\\abstractions\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A162D49-AAC7-41D5-8946-0C8BF7316201}|TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj|solutionrelative:testsite.authservice.domain\\abstractions\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C65B061-4FCE-4F63-99F0-814DF540CED5}|TestSite.AuthService.Contract\\TestSite.AuthService.Contract.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.contract\\models\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C65B061-4FCE-4F63-99F0-814DF540CED5}|TestSite.AuthService.Contract\\TestSite.AuthService.Contract.csproj|solutionrelative:testsite.authservice.contract\\models\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C65B061-4FCE-4F63-99F0-814DF540CED5}|TestSite.AuthService.Contract\\TestSite.AuthService.Contract.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.contract\\models\\membercredentialsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C65B061-4FCE-4F63-99F0-814DF540CED5}|TestSite.AuthService.Contract\\TestSite.AuthService.Contract.csproj|solutionrelative:testsite.authservice.contract\\models\\membercredentialsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C65B061-4FCE-4F63-99F0-814DF540CED5}|TestSite.AuthService.Contract\\TestSite.AuthService.Contract.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.contract\\requests\\memberloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C65B061-4FCE-4F63-99F0-814DF540CED5}|TestSite.AuthService.Contract\\TestSite.AuthService.Contract.csproj|solutionrelative:testsite.authservice.contract\\requests\\memberloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C65B061-4FCE-4F63-99F0-814DF540CED5}|TestSite.AuthService.Contract\\TestSite.AuthService.Contract.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.contract\\requests\\addcredentialsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C65B061-4FCE-4F63-99F0-814DF540CED5}|TestSite.AuthService.Contract\\TestSite.AuthService.Contract.csproj|solutionrelative:testsite.authservice.contract\\requests\\addcredentialsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C65B061-4FCE-4F63-99F0-814DF540CED5}|TestSite.AuthService.Contract\\TestSite.AuthService.Contract.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.contract\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{1C65B061-4FCE-4F63-99F0-814DF540CED5}|TestSite.AuthService.Contract\\TestSite.AuthService.Contract.csproj|solutionrelative:testsite.authservice.contract\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C65B061-4FCE-4F63-99F0-814DF540CED5}|TestSite.AuthService.Contract\\TestSite.AuthService.Contract.csproj|c:\\repos\\fun-sandbox\\orion.callaghan\\docker-compose-example\\server\\authservice\\testsite.authservice.contract\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C65B061-4FCE-4F63-99F0-814DF540CED5}|TestSite.AuthService.Contract\\TestSite.AuthService.Contract.csproj|solutionrelative:testsite.authservice.contract\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestSite.AuthService.Domain",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj",
+              "RelativeToolTip": "TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T02:17:50.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestSite.AuthService.Api.http",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\TestSite.AuthService.Api.http",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Api\\TestSite.AuthService.Api.http",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\TestSite.AuthService.Api.http",
+              "RelativeToolTip": "TestSite.AuthService.Api\\TestSite.AuthService.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-05T02:13:20.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TestSite.AuthService.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T02:12:45.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Api\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\AutoMapperProfile.cs",
+              "RelativeToolTip": "TestSite.AuthService.Api\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T01:26:03.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceRegistrar.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\ServiceRegistrar.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Api\\ServiceRegistrar.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\ServiceRegistrar.cs",
+              "RelativeToolTip": "TestSite.AuthService.Api\\ServiceRegistrar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T01:20:54.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IMemberCredentialsRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\Abstractions\\IMemberCredentialsRepository.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Domain\\Abstractions\\IMemberCredentialsRepository.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\Abstractions\\IMemberCredentialsRepository.cs",
+              "RelativeToolTip": "TestSite.AuthService.Domain\\Abstractions\\IMemberCredentialsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:52:49.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberCredentialsRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Persistence\\Respositories\\MemberCredentialsRepository.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Persistence\\Respositories\\MemberCredentialsRepository.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Persistence\\Respositories\\MemberCredentialsRepository.cs",
+              "RelativeToolTip": "TestSite.AuthService.Persistence\\Respositories\\MemberCredentialsRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:51:33.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Api\\appsettings.json",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\appsettings.json",
+              "RelativeToolTip": "TestSite.AuthService.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T23:44:11.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestSiteCoreContext.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Persistence\\Contexts\\TestSiteCoreContext.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Persistence\\Contexts\\TestSiteCoreContext.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Persistence\\Contexts\\TestSiteCoreContext.cs",
+              "RelativeToolTip": "TestSite.AuthService.Persistence\\Contexts\\TestSiteCoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:41:54.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Persistence\\Respositories\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Persistence\\Respositories\\MemberRepository.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Persistence\\Respositories\\MemberRepository.cs",
+              "RelativeToolTip": "TestSite.AuthService.Persistence\\Respositories\\MemberRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:40:04.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddCredentialsRequest.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\Requests\\AddCredentialsRequest.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Contract\\Requests\\AddCredentialsRequest.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\Requests\\AddCredentialsRequest.cs",
+              "RelativeToolTip": "TestSite.AuthService.Contract\\Requests\\AddCredentialsRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:25:14.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddMemberRequest.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\Requests\\AddMemberRequest.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Contract\\Requests\\AddMemberRequest.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\Requests\\AddMemberRequest.cs",
+              "RelativeToolTip": "TestSite.AuthService.Contract\\Requests\\AddMemberRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:15:54.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MemberLoginRequest.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\Requests\\MemberLoginRequest.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Contract\\Requests\\MemberLoginRequest.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\Requests\\MemberLoginRequest.cs",
+              "RelativeToolTip": "TestSite.AuthService.Contract\\Requests\\MemberLoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:15:31.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\README.md",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Contract\\README.md",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\README.md",
+              "RelativeToolTip": "TestSite.AuthService.Contract\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-04T23:08:00.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MemberCredentialsDto.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\Models\\MemberCredentialsDto.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Contract\\Models\\MemberCredentialsDto.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\Models\\MemberCredentialsDto.cs",
+              "RelativeToolTip": "TestSite.AuthService.Contract\\Models\\MemberCredentialsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:06:56.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MemberDto.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\Models\\MemberDto.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Contract\\Models\\MemberDto.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\Models\\MemberDto.cs",
+              "RelativeToolTip": "TestSite.AuthService.Contract\\Models\\MemberDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:06:47.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\Class1.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Contract\\Class1.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\Class1.cs",
+              "RelativeToolTip": "TestSite.AuthService.Contract\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:06:17.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\Abstractions\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Domain\\Abstractions\\IMemberRepository.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\Abstractions\\IMemberRepository.cs",
+              "RelativeToolTip": "TestSite.AuthService.Domain\\Abstractions\\IMemberRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:43:03.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MemberArgs.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\Args\\MemberArgs.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Domain\\Args\\MemberArgs.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\Args\\MemberArgs.cs",
+              "RelativeToolTip": "TestSite.AuthService.Domain\\Args\\MemberArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:40:47.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthAppService.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\AppServices\\AuthAppService.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Api\\AppServices\\AuthAppService.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\AppServices\\AuthAppService.cs",
+              "RelativeToolTip": "TestSite.AuthService.Api\\AppServices\\AuthAppService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwEMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:39:57.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthAppService.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\Abstractions\\IAuthAppService.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Api\\Abstractions\\IAuthAppService.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\Abstractions\\IAuthAppService.cs",
+              "RelativeToolTip": "TestSite.AuthService.Api\\Abstractions\\IAuthAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:38:19.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Api\\Program.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\Program.cs",
+              "RelativeToolTip": "TestSite.AuthService.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:34:52.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TestSite.AuthService.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAFgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:34:13.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DepartmentType.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\Entities\\DepartmentType.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Domain\\Entities\\DepartmentType.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\Entities\\DepartmentType.cs",
+              "RelativeToolTip": "TestSite.AuthService.Domain\\Entities\\DepartmentType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:30:46.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberCredentials.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\Entities\\MemberCredentials.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Domain\\Entities\\MemberCredentials.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\Entities\\MemberCredentials.cs",
+              "RelativeToolTip": "TestSite.AuthService.Domain\\Entities\\MemberCredentials.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:24:29.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\Entities\\Member.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Domain\\Entities\\Member.cs",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\Entities\\Member.cs",
+              "RelativeToolTip": "TestSite.AuthService.Domain\\Entities\\Member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:22:58.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestSite.AuthService.Api.csproj",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj",
+              "RelativeToolTip": "TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T22:00:59.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestSite.AuthService.Persistence.csproj",
+              "DocumentMoniker": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Persistence\\TestSite.AuthService.Persistence.csproj",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Persistence\\TestSite.AuthService.Persistence.csproj",
+              "ToolTip": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Persistence\\TestSite.AuthService.Persistence.csproj",
+              "RelativeToolTip": "TestSite.AuthService.Persistence\\TestSite.AuthService.Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T21:58:04.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
