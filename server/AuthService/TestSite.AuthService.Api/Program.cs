@@ -1,7 +1,9 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using System.Text;
 using TestSite.AuthService.Api;
 using TestSite.AuthService.Persistence.Contexts;
+using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -27,13 +29,7 @@ builder.Services.AddCors(o => o.AddPolicy("Policy", builder =>
 
 var connString = builder.Configuration.GetConnectionString("TestSiteCore");
 
-// RegisterServices
-var registrar = new ServiceRegistrar();
-registrar.RegisterServices(builder.Services);
-
-var app = builder.Build();
-
-var key = Encoding.ASCII.GetBytes(Configuration["Jwt:Key"]);
+var key = Encoding.ASCII.GetBytes(builder.Configuration["Jwt:Key"]);
 builder.Services.AddAuthentication(x =>
 {
 	x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -51,6 +47,13 @@ builder.Services.AddAuthentication(x =>
 		ValidateAudience = false
 	};
 });
+
+// RegisterServices
+var registrar = new ServiceRegistrar();
+registrar.RegisterServices(builder.Services);
+
+var app = builder.Build();
+
 
 //// Configure the HTTP request pipeline.
 // if (app.Environment.IsDevelopment())

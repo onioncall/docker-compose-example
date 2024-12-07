@@ -25,15 +25,15 @@
 				})
 			});
 
-			if (!response.ok) {
-				throw new Error(`HTTP error! status: ${response.status}`);
+			if (response.ok) {
+				const token = await response.text();
+				console.log('JWT Token:', token);
+				sessionStorage.setItem('jwt', token);
 			}
-
-			const data = await response.json();
-			return data;
-		} catch (error) {
-			console.error('login failed: ', error)	
-		}	
+		}
+		catch (ex) {
+			console.log(ex)
+		}
 	}
 </script>
 

@@ -1,4 +1,4 @@
-create table member.member (
+create table auth.member (
 	member_id serial primary key
 ,	first_name varchar(50)
 ,	last_name varchar(50) 

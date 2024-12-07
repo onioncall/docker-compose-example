@@ -22,6 +22,7 @@ public class MemberCredentialsRepository : IMemberCredentialsRepository
 	{
 		// checking email if username isn't found
 		var memberCredentials = await _dbContext.MemberCredentials
+			.Include(mc => mc.Member)
 			.FirstAsync(mc => mc.Member.Username == username || mc.Member.EmailAddress == username);
 
 		return memberCredentials;

@@ -11,7 +11,7 @@ public interface IAuthAppService
 
 	Task<MemberDto> GetMemberById(int id);
 
-	Task<bool> LoginMember(string username, string password);
+	Task<string> LoginMember(string username, string password);
 
 	Task UpdateMemberCredentials(int memberId, string password);
 }

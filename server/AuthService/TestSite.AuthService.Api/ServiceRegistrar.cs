@@ -12,6 +12,7 @@ public class ServiceRegistrar
 		services.AddScoped<IAuthAppService, AuthAppService>();
 		services.AddScoped<IMemberRepository, MemberRepository>();
 		services.AddScoped<IMemberCredentialsRepository, MemberCredentialsRepository>();
+		services.AddScoped<ITokenAppService, TokenAppService>();
 		services.AddAutoMapper(typeof(AutoMapperProfile));
 	}
 }

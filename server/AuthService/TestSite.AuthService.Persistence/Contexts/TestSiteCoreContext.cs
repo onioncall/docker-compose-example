@@ -25,7 +25,7 @@ public class TestSiteCoreContext : DbContext
 	protected override void OnModelCreating(ModelBuilder modelBuilder)
 	{
 		modelBuilder
-			.HasDefaultSchema("member");
+			.HasDefaultSchema("auth");
 
 		modelBuilder
 			.Entity<Member>()

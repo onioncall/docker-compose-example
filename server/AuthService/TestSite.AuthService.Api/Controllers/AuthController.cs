@@ -86,9 +86,9 @@ public class AuthController : ControllerBase
 	[Route("login-member")]
 	public async Task<IActionResult> LoginMember([FromBody] MemberLoginRequest request)
 	{
-		var loginVerified = await _authAppService.LoginMember(request.Username, request.Password);
+		var token = await _authAppService.LoginMember(request.Username, request.Password);
 
-		return Ok(loginVerified);
+		return Ok(token);
 	}
 
 	[HttpPut]

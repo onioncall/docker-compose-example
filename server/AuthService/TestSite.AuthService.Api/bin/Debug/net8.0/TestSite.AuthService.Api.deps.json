@@ -197,12 +197,18 @@
       },
       "TestSite.AuthService.Contract/1.0.0": {
         "runtime": {
-          "TestSite.AuthService.Contract.dll": {}
+          "TestSite.AuthService.Contract.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "TestSite.AuthService.Domain/1.0.0": {
         "runtime": {
-          "TestSite.AuthService.Domain.dll": {}
+          "TestSite.AuthService.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "TestSite.AuthService.Persistence/1.0.0": {
@@ -212,7 +218,10 @@
           "TestSite.AuthService.Domain": "1.0.0"
         },
         "runtime": {
-          "TestSite.AuthService.Persistence.dll": {}
+          "TestSite.AuthService.Persistence.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

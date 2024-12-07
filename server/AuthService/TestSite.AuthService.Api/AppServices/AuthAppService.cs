@@ -13,11 +13,17 @@ public class AuthAppService : IAuthAppService
 	private readonly IMapper _mapper;
 	private readonly IMemberCredentialsRepository _memberCredRepo;
 	private readonly IMemberRepository _memberRepo;
+	private readonly ITokenAppService _tokenAppService;
 
-	public AuthAppService(IMemberRepository memberRepo, IMemberCredentialsRepository memberCredRepo, IMapper mapper)
+	public AuthAppService(
+			IMemberRepository memberRepo, 
+			IMemberCredentialsRepository memberCredRepo, 
+			ITokenAppService tokenAppService,
+			IMapper mapper)
 	{
 		_memberRepo = memberRepo;
 		_memberCredRepo = memberCredRepo;
+		_tokenAppService = tokenAppService;
 		_mapper = mapper;
 	}
 
@@ -65,19 +71,25 @@ public class AuthAppService : IAuthAppService
 		}
 	}
 
-	public async Task<bool> LoginMember(string username, string password)
+	public async Task<string> LoginMember(string username, string password)
 	{
 		try
 		{
 			var credentials = await _memberCredRepo.GetCredentials(username);
 			var loginVerified = credentials.VerifyLogin(password);
 
-			if
+			if (!loginVerified)
+			{
+				throw new Exception("invalid credentials");
+			}
 
-			return loginVerified;
+			var token = _tokenAppService.GenerateJwtToken(credentials.MemberId, credentials.Member.Department);
+
+			return token.ToString();
 		}
 		catch (Exception ex)
 		{
+			Console.WriteLine(ex);
 			throw ex;
 		}
 	}

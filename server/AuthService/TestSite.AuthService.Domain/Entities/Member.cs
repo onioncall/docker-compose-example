@@ -16,7 +16,7 @@ public class Member
 		if (args.LastName == null) throw new Exception($"{nameof(args.LastName)} cannot be null when creating member.");
 		if (args.EmailAddress == null) throw new Exception($"{nameof(args.EmailAddress)} cannot be null when creating member.");
 		if (args.PhoneNumber == null) throw new Exception($"{nameof(args.PhoneNumber)} cannot be null when creating member.");
-		if (args.DepartmentId == null) throw new Exception($"{nameof(args.DepartmentId)} cannot be null when creating member.");
+		if (args.DepartmentId == 0) throw new Exception($"{nameof(args.DepartmentId)} cannot be null when creating member.");
 
 		FirstName = args.FirstName;
 		LastName = args.LastName;

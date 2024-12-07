@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "twUttr4u9Jk=",
+  "dgSpecHash": "czAWdmQzh3Y=",
   "success": true,
-  "projectFilePath": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\TestSite.AuthService.Contract.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/onion/repos/docker-compose-example/server/AuthService/TestSite.AuthService.Contract/TestSite.AuthService.Contract.csproj",
+  "expectedPackageFiles": [
+    "/home/onion/.nuget/packages/microsoft.netcore.app.ref/8.0.10/microsoft.netcore.app.ref.8.0.10.nupkg.sha512",
+    "/home/onion/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
   "logs": []
 }
