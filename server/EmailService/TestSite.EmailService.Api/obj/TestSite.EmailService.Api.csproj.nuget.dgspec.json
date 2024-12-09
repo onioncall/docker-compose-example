@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/onion/repos/docker-compose-example/server/EmailService/TestSite.EmailService.Api/TestSite.EmailService.Api.csproj": {}
+  },
+  "projects": {
+    "/home/onion/repos/docker-compose-example/server/EmailService/TestSite.EmailService.Api/TestSite.EmailService.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/onion/repos/docker-compose-example/server/EmailService/TestSite.EmailService.Api/TestSite.EmailService.Api.csproj",
+        "projectName": "TestSite.EmailService.Api",
+        "projectPath": "/home/onion/repos/docker-compose-example/server/EmailService/TestSite.EmailService.Api/TestSite.EmailService.Api.csproj",
+        "packagesPath": "/home/onion/.nuget/packages/",
+        "outputPath": "/home/onion/repos/docker-compose-example/server/EmailService/TestSite.EmailService.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/onion/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/onion/repos/docker-compose-example/server/EmailService/TestSite.EmailService.Domain/TestSite.EmailService.Domain.csproj": {
+                "projectPath": "/home/onion/repos/docker-compose-example/server/EmailService/TestSite.EmailService.Domain/TestSite.EmailService.Domain.csproj"
+              },
+              "/home/onion/repos/docker-compose-example/server/EmailService/TestSite.EmailService.Persistence/TestSite.EmailService.Persistence.csproj": {
+                "projectPath": "/home/onion/repos/docker-compose-example/server/EmailService/TestSite.EmailService.Persistence/TestSite.EmailService.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "EFCore.NamingConventions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/onion/repos/docker-compose-example/server/EmailService/TestSite.EmailService.Domain/TestSite.EmailService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/onion/repos/docker-compose-example/server/EmailService/TestSite.EmailService.Domain/TestSite.EmailService.Domain.csproj",
+        "projectName": "TestSite.EmailService.Domain",
+        "projectPath": "/home/onion/repos/docker-compose-example/server/EmailService/TestSite.EmailService.Domain/TestSite.EmailService.Domain.csproj",
+        "packagesPath": "/home/onion/.nuget/packages/",
+        "outputPath": "/home/onion/repos/docker-compose-example/server/EmailService/TestSite.EmailService.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/onion/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/onion/repos/docker-compose-example/server/EmailService/TestSite.EmailService.Persistence/TestSite.EmailService.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/onion/repos/docker-compose-example/server/EmailService/TestSite.EmailService.Persistence/TestSite.EmailService.Persistence.csproj",
+        "projectName": "TestSite.EmailService.Persistence",
+        "projectPath": "/home/onion/repos/docker-compose-example/server/EmailService/TestSite.EmailService.Persistence/TestSite.EmailService.Persistence.csproj",
+        "packagesPath": "/home/onion/.nuget/packages/",
+        "outputPath": "/home/onion/repos/docker-compose-example/server/EmailService/TestSite.EmailService.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/onion/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/onion/repos/docker-compose-example/server/EmailService/TestSite.EmailService.Domain/TestSite.EmailService.Domain.csproj": {
+                "projectPath": "/home/onion/repos/docker-compose-example/server/EmailService/TestSite.EmailService.Domain/TestSite.EmailService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

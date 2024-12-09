@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using TestSite.AuthService.Api.Abstractions;
 using TestSite.AuthService.Contract.Requests;
 
@@ -86,9 +87,22 @@ public class AuthController : ControllerBase
 	[Route("login-member")]
 	public async Task<IActionResult> LoginMember([FromBody] MemberLoginRequest request)
 	{
-		var token = await _authAppService.LoginMember(request.Username, request.Password);
+		try 
+		{
+			var token = await _authAppService.LoginMember(request.Username, request.Password);
 
-		return Ok(token);
+			if (token == null)
+			{
+				return Unauthorized("Invalid Credentials");
+			}
+
+			return Ok(token);
+		}
+		catch (Exception ex) 
+		{
+			_logger.LogError(ex, "Authentication Failed");
+			return StatusCode(500, "Authentication Failed");
+		}
 	}
 
 	[HttpPut]
@@ -108,4 +122,11 @@ public class AuthController : ControllerBase
 			return BadRequest(message);
 		}
 	}
+
+    [HttpGet("verify-token")]
+    [Authorize]
+    public IActionResult VerifyToken()
+    {
+        return Ok(new { message = "Token is valid" });
+    }
 }

@@ -18,12 +18,12 @@ public class MemberCredentialsRepository : IMemberCredentialsRepository
 		_logger = logger;
 	}
 
-	public async Task<MemberCredentials> GetCredentials(string username)
+	public async Task<MemberCredentials?> GetCredentials(string username)
 	{
 		// checking email if username isn't found
 		var memberCredentials = await _dbContext.MemberCredentials
 			.Include(mc => mc.Member)
-			.FirstAsync(mc => mc.Member.Username == username || mc.Member.EmailAddress == username);
+			.FirstOrDefaultAsync(mc => mc.Member.Username == username || mc.Member.EmailAddress == username);
 
 		return memberCredentials;
 	}

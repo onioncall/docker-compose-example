@@ -1,7 +1,7 @@
 services: 
 
   client:
-    build: ./svelte-client
+    build: ./client
     ports: 
       - 5173:5173
     
@@ -10,7 +10,7 @@ services:
   #   build: ./server/ProductService
   #   ports: 
   #     - 8080:8080
-  #     
+      
   auth-service:
     build: ./server/AuthService
     ports: 

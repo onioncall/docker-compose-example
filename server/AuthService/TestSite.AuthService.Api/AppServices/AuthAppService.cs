@@ -71,27 +71,25 @@ public class AuthAppService : IAuthAppService
 		}
 	}
 
-	public async Task<string> LoginMember(string username, string password)
+	public async Task<string?> LoginMember(string username, string password)
 	{
-		try
+		var credentials = await _memberCredRepo.GetCredentials(username);
+
+		if (credentials == null) 
 		{
-			var credentials = await _memberCredRepo.GetCredentials(username);
-			var loginVerified = credentials.VerifyLogin(password);
-
-			if (!loginVerified)
-			{
-				throw new Exception("invalid credentials");
-			}
-
-			var token = _tokenAppService.GenerateJwtToken(credentials.MemberId, credentials.Member.Department);
-
-			return token.ToString();
+			return null;
 		}
-		catch (Exception ex)
+
+		var loginVerified = credentials.VerifyLogin(password);
+
+		if (!loginVerified)
 		{
-			Console.WriteLine(ex);
-			throw ex;
+			return null;
 		}
+
+		var token = _tokenAppService.GenerateJwtToken(credentials.MemberId, credentials.Member.Department);
+
+		return token.ToString();
 	}
 
 	public async Task UpdateMemberCredentials(int memberId, string password)
