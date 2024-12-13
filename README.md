@@ -33,7 +33,6 @@ Here are the key benefits of containerization:
 - Container images are versioned
 - Easy to roll back to previous versions
 - Simple to maintain different versions of applications
-- Clear history of application changes
 
 ------------------------------------
 
@@ -48,7 +47,7 @@ When running docker commands in the command line, they can quickly become exhaus
 - Building an image
 docker build -t myapp:1.0 -f Dockerfile.dev .
 
-this command is building a docker image, then "tagging" (-t) that image with the name of tha application, then specifying the docker file location###. 
+this command is building a docker image, then "tagging" (-t) that image with the name of tha application, then specifying the docker file location of the application you are running. 
 
 - Running an container
 docker run -d -e DATABASE_URL=postgres://localhost:5432 -p 8080:80 -v ./volume myapp:1.0
