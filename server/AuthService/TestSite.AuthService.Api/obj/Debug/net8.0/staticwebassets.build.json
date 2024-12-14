@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "o1iUXeLWKtPJzlK4u2M4NLdkw4Qw4JwYzy9lf1TLWFM=",
+  "Hash": "NsWQ5Ob30ESLy2Dwe9/RouzZMGLN1pTULmhaQ1i7dbQ=",
   "Source": "TestSite.AuthService.Api",
   "BasePath": "_content/TestSite.AuthService.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

@@ -32,3 +32,15 @@ C:/Repos/Fun-Sandbox/orion.callaghan/docker-compose-example/server/AuthService/T
 /home/onion/repos/docker-compose-example/server/AuthService/TestSite.AuthService.Domain/obj/Debug/net8.0/refint/TestSite.AuthService.Domain.dll
 /home/onion/repos/docker-compose-example/server/AuthService/TestSite.AuthService.Domain/obj/Debug/net8.0/TestSite.AuthService.Domain.pdb
 /home/onion/repos/docker-compose-example/server/AuthService/TestSite.AuthService.Domain/obj/Debug/net8.0/ref/TestSite.AuthService.Domain.dll
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\AuthService\TestSite.AuthService.Domain\bin\Debug\net8.0\TestSite.AuthService.Domain.deps.json
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\AuthService\TestSite.AuthService.Domain\bin\Debug\net8.0\TestSite.AuthService.Domain.dll
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\AuthService\TestSite.AuthService.Domain\bin\Debug\net8.0\TestSite.AuthService.Domain.pdb
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\AuthService\TestSite.AuthService.Domain\obj\Debug\net8.0\TestSite.AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\AuthService\TestSite.AuthService.Domain\obj\Debug\net8.0\TestSite.AuthService.Domain.AssemblyInfoInputs.cache
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\AuthService\TestSite.AuthService.Domain\obj\Debug\net8.0\TestSite.AuthService.Domain.AssemblyInfo.cs
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\AuthService\TestSite.AuthService.Domain\obj\Debug\net8.0\TestSite.AuthService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\AuthService\TestSite.AuthService.Domain\obj\Debug\net8.0\TestSite.AuthService.Domain.sourcelink.json
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\AuthService\TestSite.AuthService.Domain\obj\Debug\net8.0\TestSite.AuthService.Domain.dll
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\AuthService\TestSite.AuthService.Domain\obj\Debug\net8.0\refint\TestSite.AuthService.Domain.dll
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\AuthService\TestSite.AuthService.Domain\obj\Debug\net8.0\TestSite.AuthService.Domain.pdb
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\AuthService\TestSite.AuthService.Domain\obj\Debug\net8.0\ref\TestSite.AuthService.Domain.dll

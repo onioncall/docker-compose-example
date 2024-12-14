@@ -1,17 +1,14 @@
-import { browser } from '$app/environment';
-import { goto } from '$app/navigation';
-import { writable } from 'svelte/store';
+export const ssr = false;  // Disable server-side rendering since we're using client-side auth
 
-export const isAuthChecked = writable(false);
+export const load = async ({ url }) => {
+    // Skip check for public routes
+    if (url.pathname === '/login') {
+        return { isAuthenticated: true };
+    }
 
-export const checkAuth = async () => {
-    if (!browser) return;
-
-    const token = sessionStorage.getItem('jwt'); // or however you store your token
-    
+    const token = sessionStorage?.getItem('jwt');
     if (!token) {
-        goto('/login');
-        return;
+        throw redirect(307, '/login');
     }
 
     try {
@@ -23,12 +20,12 @@ export const checkAuth = async () => {
         
         if (!response.ok) {
             sessionStorage.removeItem('jwt');
-            goto('/login');
+            throw redirect(307, '/login');
         }
+        
+        return { isAuthenticated: true };
     } catch (error) {
-        sessionStorage.removeItem('jwt');
-        goto('/login');
-    } finally {
-        isAuthChecked.set(true);
+        sessionStorage?.removeItem('jwt');
+        throw redirect(307, '/login');
     }
-}
+};

@@ -2,9 +2,11 @@ using System.Reflection;
 using System.Text;
 using MassTransit;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using TestSite.EmailService.Api;
 using TestSite.EmailService.Api.Consumers;
+using TestSite.MemberService.Persistence.Contexts;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,14 +18,18 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddCors(o => o.AddPolicy("Policy", builder =>
-			{
-				builder.AllowAnyOrigin()
-				.AllowAnyHeader()
-				.AllowAnyMethod();
-			}));
-
 var connString = builder.Configuration.GetConnectionString("TestSiteCore");
+builder.Services.AddDbContext<TestSiteCoreContext>(opt =>
+	opt
+		.UseNpgsql(connString)
+		.UseSnakeCaseNamingConvention());
+
+builder.Services.AddCors(o => o.AddPolicy("Policy", builder =>
+{
+	builder.AllowAnyOrigin()
+	.AllowAnyHeader()
+	.AllowAnyMethod();
+}));
 
 var key = Encoding.ASCII.GetBytes(builder.Configuration["Jwt:Key"]);
 builder.Services.AddAuthentication(x =>
@@ -65,6 +71,9 @@ builder.Services.AddMassTransit(x =>
 		cfg.ConfigureEndpoints(ctx);
 	});
 });
+
+var dependencyModule = new DependencyModule();
+dependencyModule.RegisterDependencies(builder.Services);
 
 var app = builder.Build();
 

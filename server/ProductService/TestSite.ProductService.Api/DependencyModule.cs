@@ -5,7 +5,7 @@ using TestSite.ProductService.Persistence.Repositories;
 
 namespace TestSite.ProductService.Api;
 
-public class DependencyRegistrar
+public class DependencyModule
 {
 	public void RegisterDependencies(IServiceCollection services)
 	{

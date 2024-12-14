@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestSite.EmailService.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ed69329849b195df603f22eb162235924931e30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cf3e81d068db5872b8d215b41df46d372960296")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestSite.EmailService.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestSite.EmailService.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

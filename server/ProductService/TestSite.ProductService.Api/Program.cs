@@ -46,9 +46,8 @@ builder.Services.AddMassTransit(x =>
 	});
 });
 
-// RegisterServices
-var registrar = new DependencyRegistrar();
-registrar.RegisterDependencies(builder.Services);
+var dependencyModule = new DependencyModule();
+dependencyModule.RegisterDependencies(builder.Services);
 
 var app = builder.Build();
 

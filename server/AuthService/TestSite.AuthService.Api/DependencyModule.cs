@@ -5,9 +5,9 @@ using TestSite.AuthService.Persistence.Repositories;
 
 namespace TestSite.AuthService.Api;
 
-public class ServiceRegistrar
+public class DependencyModule
 {
-	public void RegisterServices(IServiceCollection services)
+	public void RegisterDependencies(IServiceCollection services)
 	{
 		services.AddScoped<IAuthAppService, AuthAppService>();
 		services.AddScoped<IMemberRepository, MemberRepository>();

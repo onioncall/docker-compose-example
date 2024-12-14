@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\authservice\\testsite.authservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|solutionrelative:testsite.authservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\authservice\\testsite.authservice.api\\dependencymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|solutionrelative:testsite.authservice.api\\dependencymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\authservice\\testsite.authservice.api\\appservices\\authappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|solutionrelative:testsite.authservice.api\\appservices\\authappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|solutionrelative:testsite.authservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\authservice\\testsite.authservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|solutionrelative:testsite.authservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C104A77-DFC7-43B9-887C-8ECB4CBBA480}|TestSite.AuthService.Persistence\\TestSite.AuthService.Persistence.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\authservice\\testsite.authservice.persistence\\contexts\\testsitecorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C104A77-DFC7-43B9-887C-8ECB4CBBA480}|TestSite.AuthService.Persistence\\TestSite.AuthService.Persistence.csproj|solutionrelative:testsite.authservice.persistence\\contexts\\testsitecorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -65,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0A162D49-AAC7-41D5-8946-0C8BF7316201}|TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\authservice\\testsite.authservice.domain\\args\\memberargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A162D49-AAC7-41D5-8946-0C8BF7316201}|TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj|solutionrelative:testsite.authservice.domain\\args\\memberargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\authservice\\testsite.authservice.api\\serviceregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FB80267-CBF8-4B9F-BE0D-D0BB887C5445}|TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj|solutionrelative:testsite.authservice.api\\serviceregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A162D49-AAC7-41D5-8946-0C8BF7316201}|TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\authservice\\testsite.authservice.domain\\abstractions\\imembercredentialsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 23,
+          "SelectedChildIndex": 25,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "TestSite.AuthService.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj",
               "RelativeDocumentMoniker": "TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj",
@@ -154,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "TestSite.AuthService.Api.http",
               "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\TestSite.AuthService.Api.http",
               "RelativeDocumentMoniker": "TestSite.AuthService.Api\\TestSite.AuthService.Api.http",
@@ -166,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "TestSite.AuthService.Api\\Properties\\launchSettings.json",
@@ -190,15 +190,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ServiceRegistrar.cs",
-              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\ServiceRegistrar.cs",
-              "RelativeDocumentMoniker": "TestSite.AuthService.Api\\ServiceRegistrar.cs",
-              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\ServiceRegistrar.cs",
-              "RelativeToolTip": "TestSite.AuthService.Api\\ServiceRegistrar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAABAAAA",
+              "DocumentIndex": 1,
+              "Title": "DependencyModule.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\DependencyModule.cs",
+              "RelativeDocumentMoniker": "TestSite.AuthService.Api\\DependencyModule.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\DependencyModule.cs",
+              "RelativeToolTip": "TestSite.AuthService.Api\\DependencyModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T01:20:54.949Z"
+              "WhenOpened": "2024-12-05T01:20:54.949Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -214,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MemberCredentialsRepository.cs",
               "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Persistence\\Respositories\\MemberCredentialsRepository.cs",
               "RelativeDocumentMoniker": "TestSite.AuthService.Persistence\\Respositories\\MemberCredentialsRepository.cs",
@@ -226,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\appsettings.json",
               "RelativeDocumentMoniker": "TestSite.AuthService.Api\\appsettings.json",
@@ -238,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "TestSiteCoreContext.cs",
               "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Persistence\\Contexts\\TestSiteCoreContext.cs",
               "RelativeDocumentMoniker": "TestSite.AuthService.Persistence\\Contexts\\TestSiteCoreContext.cs",
@@ -250,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "MemberRepository.cs",
               "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Persistence\\Respositories\\MemberRepository.cs",
               "RelativeDocumentMoniker": "TestSite.AuthService.Persistence\\Respositories\\MemberRepository.cs",
@@ -274,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AddMemberRequest.cs",
               "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\Requests\\AddMemberRequest.cs",
               "RelativeDocumentMoniker": "TestSite.AuthService.Contract\\Requests\\AddMemberRequest.cs",
@@ -358,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "MemberArgs.cs",
               "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\Args\\MemberArgs.cs",
               "RelativeDocumentMoniker": "TestSite.AuthService.Domain\\Args\\MemberArgs.cs",
@@ -370,20 +371,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AuthAppService.cs",
               "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\AppServices\\AuthAppService.cs",
               "RelativeDocumentMoniker": "TestSite.AuthService.Api\\AppServices\\AuthAppService.cs",
               "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\AppServices\\AuthAppService.cs",
               "RelativeToolTip": "TestSite.AuthService.Api\\AppServices\\AuthAppService.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAqwD8AAAAoAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwEwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T22:39:57.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T22:39:57.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IAuthAppService.cs",
               "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\Abstractions\\IAuthAppService.cs",
               "RelativeDocumentMoniker": "TestSite.AuthService.Api\\Abstractions\\IAuthAppService.cs",
@@ -395,19 +395,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\Program.cs",
               "RelativeDocumentMoniker": "TestSite.AuthService.Api\\Program.cs",
               "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\Program.cs",
               "RelativeToolTip": "TestSite.AuthService.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T22:34:52.996Z"
+              "WhenOpened": "2024-12-04T22:34:52.996Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "TestSite.AuthService.Api\\Controllers\\AuthController.cs",
@@ -431,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MemberCredentials.cs",
               "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\Entities\\MemberCredentials.cs",
               "RelativeDocumentMoniker": "TestSite.AuthService.Domain\\Entities\\MemberCredentials.cs",
@@ -455,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "TestSite.AuthService.Api.csproj",
               "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj",
               "RelativeDocumentMoniker": "TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj",
@@ -467,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "TestSite.AuthService.Persistence.csproj",
               "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Persistence\\TestSite.AuthService.Persistence.csproj",
               "RelativeDocumentMoniker": "TestSite.AuthService.Persistence\\TestSite.AuthService.Persistence.csproj",

@@ -15,9 +15,10 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+var connString = builder.Configuration.GetConnectionString("TestSiteCore");
 builder.Services.AddDbContext<TestSiteCoreContext>(opt =>
 	opt
-		.UseNpgsql(builder.Configuration.GetConnectionString("TestSiteCore"))
+		.UseNpgsql(connString)
 		.UseSnakeCaseNamingConvention());
 
 builder.Services.AddCors(o => o.AddPolicy("Policy", builder =>
@@ -26,8 +27,6 @@ builder.Services.AddCors(o => o.AddPolicy("Policy", builder =>
 				.AllowAnyHeader()
 				.AllowAnyMethod();
 			}));
-
-var connString = builder.Configuration.GetConnectionString("TestSiteCore");
 
 var key = Encoding.ASCII.GetBytes(builder.Configuration["Jwt:Key"]);
 builder.Services.AddAuthentication(x =>
@@ -48,19 +47,10 @@ builder.Services.AddAuthentication(x =>
 	};
 });
 
-// RegisterServices
-var registrar = new ServiceRegistrar();
-registrar.RegisterServices(builder.Services);
+var dependencyModule = new DependencyModule();
+dependencyModule.RegisterDependencies(builder.Services);
 
 var app = builder.Build();
-
-
-//// Configure the HTTP request pipeline.
-// if (app.Environment.IsDevelopment())
-// {
-// app.UseSwagger();
-// app.UseSwaggerUI();
-// }
 
 app.UseSwagger();
 app.UseSwaggerUI();
