@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WndcX/p+Fc4=",
+  "dgSpecHash": "6mhhouBwiSs=",
   "success": true,
-  "projectFilePath": "/home/onion/repos/docker-compose-example/server/EmailService/Domain/TestSite.EmailService.Domain/TestSite.EmailService.Domain.csproj",
+  "projectFilePath": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\EmailService\\TestSite.EmailService.Domain\\TestSite.EmailService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

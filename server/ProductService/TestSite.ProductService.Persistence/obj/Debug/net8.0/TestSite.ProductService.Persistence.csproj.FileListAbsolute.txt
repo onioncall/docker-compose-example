@@ -1,0 +1,16 @@
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\ProductService\TestSite.ProductService.Persistence\bin\Debug\net8.0\TestSite.ProductService.Persistence.deps.json
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\ProductService\TestSite.ProductService.Persistence\bin\Debug\net8.0\TestSite.ProductService.Persistence.dll
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\ProductService\TestSite.ProductService.Persistence\bin\Debug\net8.0\TestSite.ProductService.Persistence.pdb
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\ProductService\TestSite.ProductService.Persistence\bin\Debug\net8.0\TestSite.ProductService.Domain.dll
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\ProductService\TestSite.ProductService.Persistence\bin\Debug\net8.0\TestSite.ProductService.Domain.pdb
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\ProductService\TestSite.ProductService.Persistence\obj\Debug\net8.0\TestSite.ProductService.Persistence.csproj.AssemblyReference.cache
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\ProductService\TestSite.ProductService.Persistence\obj\Debug\net8.0\TestSite.ProductService.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\ProductService\TestSite.ProductService.Persistence\obj\Debug\net8.0\TestSite.ProductService.Persistence.AssemblyInfoInputs.cache
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\ProductService\TestSite.ProductService.Persistence\obj\Debug\net8.0\TestSite.ProductService.Persistence.AssemblyInfo.cs
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\ProductService\TestSite.ProductService.Persistence\obj\Debug\net8.0\TestSite.ProductService.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\ProductService\TestSite.ProductService.Persistence\obj\Debug\net8.0\TestSite.ProductService.Persistence.sourcelink.json
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\ProductService\TestSite.ProductService.Persistence\obj\Debug\net8.0\TestSite.634A64D2.Up2Date
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\ProductService\TestSite.ProductService.Persistence\obj\Debug\net8.0\TestSite.ProductService.Persistence.dll
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\ProductService\TestSite.ProductService.Persistence\obj\Debug\net8.0\refint\TestSite.ProductService.Persistence.dll
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\ProductService\TestSite.ProductService.Persistence\obj\Debug\net8.0\TestSite.ProductService.Persistence.pdb
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\ProductService\TestSite.ProductService.Persistence\obj\Debug\net8.0\ref\TestSite.ProductService.Persistence.dll

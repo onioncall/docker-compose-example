@@ -57,6 +57,11 @@ this command is starting and running a container from that image in detatch mode
 These aren't all needed, and are many more commands I don't know or use. But they highlight the different commands that might be needed to optimize testing in your workflow. The Docker compose allows a built in way to configure all these settings so you don't need to use them in the command line when ever you spin up the application. Which brings us to the next benefit of the docker compose, it allows you to spin up multiple containers/applications from one command. 
 
 
+# Additional Notes
+---
+
+When referring to other services running out of docker compose, you must use their service name, not localhost. In this project this applies to appsettings.json for the db connection string, and in the rabbitmq configuration in program.cs
+
 ------------------------------------
 
 # Demo Project Structure

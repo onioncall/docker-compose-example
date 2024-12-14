@@ -1,0 +1,16 @@
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Persistence\bin\Debug\net8.0\TestSite.EmailService.Persistence.deps.json
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Persistence\bin\Debug\net8.0\TestSite.EmailService.Persistence.dll
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Persistence\bin\Debug\net8.0\TestSite.EmailService.Persistence.pdb
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Persistence\bin\Debug\net8.0\TestSite.EmailService.Domain.dll
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Persistence\bin\Debug\net8.0\TestSite.EmailService.Domain.pdb
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Persistence\obj\Debug\net8.0\TestSite.EmailService.Persistence.csproj.AssemblyReference.cache
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Persistence\obj\Debug\net8.0\TestSite.EmailService.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Persistence\obj\Debug\net8.0\TestSite.EmailService.Persistence.AssemblyInfoInputs.cache
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Persistence\obj\Debug\net8.0\TestSite.EmailService.Persistence.AssemblyInfo.cs
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Persistence\obj\Debug\net8.0\TestSite.EmailService.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Persistence\obj\Debug\net8.0\TestSite.EmailService.Persistence.sourcelink.json
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Persistence\obj\Debug\net8.0\TestSite.C5800670.Up2Date
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Persistence\obj\Debug\net8.0\TestSite.EmailService.Persistence.dll
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Persistence\obj\Debug\net8.0\refint\TestSite.EmailService.Persistence.dll
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Persistence\obj\Debug\net8.0\TestSite.EmailService.Persistence.pdb
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Persistence\obj\Debug\net8.0\ref\TestSite.EmailService.Persistence.dll

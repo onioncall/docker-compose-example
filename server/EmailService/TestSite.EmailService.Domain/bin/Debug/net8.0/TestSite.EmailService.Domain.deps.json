@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TestSite.EmailService.Domain/1.0.0": {
+        "runtime": {
+          "TestSite.EmailService.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestSite.EmailService.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestSite.AuthService.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9c9219e793258c49d3614b6c3d7eb9a263a2e59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ed69329849b195df603f22eb162235924931e30")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestSite.AuthService.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestSite.AuthService.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

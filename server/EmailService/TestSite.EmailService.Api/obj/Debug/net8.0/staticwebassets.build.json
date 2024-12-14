@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YSAlk2EOQcYOsJ1nRfyPRaDlpFYCzBzlz+BYFNdxYfI=",
+  "Source": "TestSite.EmailService.Api",
+  "BasePath": "_content/TestSite.EmailService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -288,6 +288,16 @@
         "build": {
           "buildTransitive/net8.0/_._": {}
         }
+      },
+      "TestSite.EmailService.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TestSite.EmailService.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestSite.EmailService.Domain.dll": {}
+        }
       }
     }
   },
@@ -733,39 +743,54 @@
         "system.diagnostics.diagnosticsource.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "TestSite.EmailService.Domain/1.0.0": {
+      "type": "project",
+      "path": "../TestSite.EmailService.Domain/TestSite.EmailService.Domain.csproj",
+      "msbuildProject": "../TestSite.EmailService.Domain/TestSite.EmailService.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.EntityFrameworkCore >= 9.0.0",
-      "Npgsql.EntityFrameworkCore.PostgreSQL >= 9.0.2"
+      "Npgsql.EntityFrameworkCore.PostgreSQL >= 9.0.2",
+      "TestSite.EmailService.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "/home/onion/.nuget/packages/": {}
+    "C:\\Users\\orion.callaghan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/onion/repos/docker-compose-example/server/EmailService/Infrastructure/TestSite.EmailService.Persistence/TestSite.EmailService.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\EmailService\\TestSite.EmailService.Persistence\\TestSite.EmailService.Persistence.csproj",
       "projectName": "TestSite.EmailService.Persistence",
-      "projectPath": "/home/onion/repos/docker-compose-example/server/EmailService/Infrastructure/TestSite.EmailService.Persistence/TestSite.EmailService.Persistence.csproj",
-      "packagesPath": "/home/onion/.nuget/packages/",
-      "outputPath": "/home/onion/repos/docker-compose-example/server/EmailService/Infrastructure/TestSite.EmailService.Persistence/obj/",
+      "projectPath": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\EmailService\\TestSite.EmailService.Persistence\\TestSite.EmailService.Persistence.csproj",
+      "packagesPath": "C:\\Users\\orion.callaghan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\EmailService\\TestSite.EmailService.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/onion/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\orion.callaghan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://packagesource": {},
+        "https://packagesource1": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\EmailService\\TestSite.EmailService.Domain\\TestSite.EmailService.Domain.csproj": {
+              "projectPath": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\EmailService\\TestSite.EmailService.Domain\\TestSite.EmailService.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -808,7 +833,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

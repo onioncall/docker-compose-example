@@ -1,23 +1,43 @@
 services: 
 
-  # client:
-  #   build: ./client
-  #   ports: 
-  #     - 5173:5173
+  client:
+    build: ./client
+    ports: 
+      - 5173:5173
     
-  server
   product-service:
-    build: ./server/ProductService
+    build: 
+      context: ./server
+      dockerfile: ./ProductService/Dockerfile
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
     ports: 
       - 8080:8080
+    environment: 
+      - ASPNETCORE_URLS=http://+:8080
       
-  # auth-service:
-  #   build: ./server/AuthService
-  #   ports: 
-  #     - 8082:8082
-  #   environment: 
-  #     - ASPNETCORE_URLS=http://+:8082
+  email-service:
+    build: 
+      context: ./server
+      dockerfile: ./EmailService/Dockerfile
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+    ports: 
+      - 8086:8086
+    environment: 
+      - ASPNETCORE_URLS=http://+:8086
 
+  auth-service:
+    build: ./server/AuthService
+    ports: 
+      - 8082:8082
+    environment: 
+      - ASPNETCORE_URLS=http://+:8082
+
+
+  # Third Party Services
   rabbitmq:
     image: rabbitmq:3-management
     container_name: rabbitmq
@@ -29,6 +49,9 @@ services:
     environment:
       - RABBITMQ_DEFAULT_USER=rabbitmq
       - RABBITMQ_DEFAULT_PASS=rabbitmq
+    volumes:
+      # Persist data
+      - rabbitmq_data:/var/lib/rabbitmq
     healthcheck:
       test: ["CMD", "rabbitmqctl", "status"]
       interval: 30s
@@ -47,3 +70,4 @@ services:
      
 volumes:
   database:
+  rabbitmq_data:

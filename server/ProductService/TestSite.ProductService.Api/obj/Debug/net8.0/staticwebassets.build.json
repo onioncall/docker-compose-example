@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7qvH/JS3Yi0J5YAN/2hbi4k+EblV6teZdCsDIITCPKk=",
+  "Source": "TestSite.ProductService.Api",
+  "BasePath": "_content/TestSite.ProductService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

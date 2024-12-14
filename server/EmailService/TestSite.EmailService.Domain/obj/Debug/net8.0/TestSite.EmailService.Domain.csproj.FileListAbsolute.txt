@@ -1,0 +1,12 @@
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Domain\bin\Debug\net8.0\TestSite.EmailService.Domain.deps.json
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Domain\bin\Debug\net8.0\TestSite.EmailService.Domain.dll
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Domain\bin\Debug\net8.0\TestSite.EmailService.Domain.pdb
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Domain\obj\Debug\net8.0\TestSite.EmailService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Domain\obj\Debug\net8.0\TestSite.EmailService.Domain.AssemblyInfoInputs.cache
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Domain\obj\Debug\net8.0\TestSite.EmailService.Domain.AssemblyInfo.cs
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Domain\obj\Debug\net8.0\TestSite.EmailService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Domain\obj\Debug\net8.0\TestSite.EmailService.Domain.sourcelink.json
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Domain\obj\Debug\net8.0\TestSite.EmailService.Domain.dll
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Domain\obj\Debug\net8.0\refint\TestSite.EmailService.Domain.dll
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Domain\obj\Debug\net8.0\TestSite.EmailService.Domain.pdb
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\EmailService\TestSite.EmailService.Domain\obj\Debug\net8.0\ref\TestSite.EmailService.Domain.dll

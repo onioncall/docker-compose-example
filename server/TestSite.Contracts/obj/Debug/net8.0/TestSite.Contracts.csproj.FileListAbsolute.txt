@@ -1,0 +1,12 @@
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\TestSite.Contracts\bin\Debug\net8.0\TestSite.Contracts.deps.json
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\TestSite.Contracts\bin\Debug\net8.0\TestSite.Contracts.dll
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\TestSite.Contracts\bin\Debug\net8.0\TestSite.Contracts.pdb
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\TestSite.Contracts\obj\Debug\net8.0\TestSite.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\TestSite.Contracts\obj\Debug\net8.0\TestSite.Contracts.AssemblyInfoInputs.cache
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\TestSite.Contracts\obj\Debug\net8.0\TestSite.Contracts.AssemblyInfo.cs
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\TestSite.Contracts\obj\Debug\net8.0\TestSite.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\TestSite.Contracts\obj\Debug\net8.0\TestSite.Contracts.sourcelink.json
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\TestSite.Contracts\obj\Debug\net8.0\TestSite.Contracts.dll
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\TestSite.Contracts\obj\Debug\net8.0\refint\TestSite.Contracts.dll
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\TestSite.Contracts\obj\Debug\net8.0\TestSite.Contracts.pdb
+C:\Users\orion.callaghan\Repos\Dotnet\docker-compose-example\server\TestSite.Contracts\obj\Debug\net8.0\ref\TestSite.Contracts.dll

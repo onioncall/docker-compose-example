@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\productservice\\testsite.productservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|solutionrelative:testsite.productservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\productservice\\testsite.productservice.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|solutionrelative:testsite.productservice.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\productservice\\testsite.productservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|solutionrelative:testsite.productservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\productservice\\testsite.productservice.api\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|solutionrelative:testsite.productservice.api\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEC6E73-0D4C-4825-AF2E-E24E6D6D9637}|Solution Items{2DEC6E73-0D4C-4825-AF2E-E24E6D6D9637}|C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2DEC6E73-0D4C-4825-AF2E-E24E6D6D9637}|Solution Items{2DEC6E73-0D4C-4825-AF2E-E24E6D6D9637}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504EEEDA-7B9F-43A5-9FC9-EAB14850C8D6}|..\\TestSite.Contracts\\TestSite.Contracts.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\testsite.contracts\\testsite.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\productservice\\testsite.productservice.api\\testsite.productservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|solutionrelative:testsite.productservice.api\\testsite.productservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\productservice\\testsite.productservice.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|solutionrelative:testsite.productservice.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\productservice\\testsite.productservice.api\\abstractions\\iproductappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|solutionrelative:testsite.productservice.api\\abstractions\\iproductappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\productservice\\testsite.productservice.api\\appservices\\productappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|solutionrelative:testsite.productservice.api\\appservices\\productappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504EEEDA-7B9F-43A5-9FC9-EAB14850C8D6}|..\\TestSite.Contracts\\TestSite.Contracts.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\testsite.contracts\\events\\productinstockevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504EEEDA-7B9F-43A5-9FC9-EAB14850C8D6}|..\\TestSite.Contracts\\TestSite.Contracts.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\testsite.contracts\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504EEEDA-7B9F-43A5-9FC9-EAB14850C8D6}|..\\TestSite.Contracts\\TestSite.Contracts.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\testsite.contracts\\requests\\productcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504EEEDA-7B9F-43A5-9FC9-EAB14850C8D6}|..\\TestSite.Contracts\\TestSite.Contracts.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\testsite.contracts\\requests\\productupdatequantityrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10531A54-E02E-4C10-93C9-66C7288B6781}|TestSite.ProductService.Persistence\\TestSite.ProductService.Persistence.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\productservice\\testsite.productservice.persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10531A54-E02E-4C10-93C9-66C7288B6781}|TestSite.ProductService.Persistence\\TestSite.ProductService.Persistence.csproj|solutionrelative:testsite.productservice.persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AA41AF-B8F9-4797-9CB2-AC9896074EAC}|TestSite.ProductService.Domain\\TestSite.ProductService.Domain.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\productservice\\testsite.productservice.domain\\abstractions\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AA41AF-B8F9-4797-9CB2-AC9896074EAC}|TestSite.ProductService.Domain\\TestSite.ProductService.Domain.csproj|solutionrelative:testsite.productservice.domain\\abstractions\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AA41AF-B8F9-4797-9CB2-AC9896074EAC}|TestSite.ProductService.Domain\\TestSite.ProductService.Domain.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\productservice\\testsite.productservice.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AA41AF-B8F9-4797-9CB2-AC9896074EAC}|TestSite.ProductService.Domain\\TestSite.ProductService.Domain.csproj|solutionrelative:testsite.productservice.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10531A54-E02E-4C10-93C9-66C7288B6781}|TestSite.ProductService.Persistence\\TestSite.ProductService.Persistence.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\productservice\\testsite.productservice.persistence\\contexts\\testsitecorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10531A54-E02E-4C10-93C9-66C7288B6781}|TestSite.ProductService.Persistence\\TestSite.ProductService.Persistence.csproj|solutionrelative:testsite.productservice.persistence\\contexts\\testsitecorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\productservice\\testsite.productservice.api\\dependencyregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|solutionrelative:testsite.productservice.api\\dependencyregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\productservice\\testsite.productservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34BD198B-BC8B-4D5F-937E-D4E5501C1D5E}|TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj|solutionrelative:testsite.productservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AA41AF-B8F9-4797-9CB2-AC9896074EAC}|TestSite.ProductService.Domain\\TestSite.ProductService.Domain.csproj|c:\\users\\orion.callaghan\\repos\\dotnet\\docker-compose-example\\server\\productservice\\testsite.productservice.domain\\args\\productargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AA41AF-B8F9-4797-9CB2-AC9896074EAC}|TestSite.ProductService.Domain\\TestSite.ProductService.Domain.csproj|solutionrelative:testsite.productservice.domain\\args\\productargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Contracts\\Requests\\ProductUpdateQuantityRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestSite.ProductService.Contracts\\Requests\\ProductUpdateQuantityRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Contracts\\Events\\ProductInStockEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestSite.ProductService.Contracts\\Events\\ProductInStockEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Contracts\\Requests\\ProductCreateRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestSite.ProductService.Contracts\\Requests\\ProductCreateRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Contracts\\Models\\ProductDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestSite.ProductService.Contracts\\Models\\ProductDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TestSite.ProductService.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\appsettings.Development.json*",
+              "RelativeToolTip": "TestSite.ProductService.Api\\appsettings.Development.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T08:30:59.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestSite.Contracts.csproj",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\TestSite.Contracts\\TestSite.Contracts.csproj",
+              "RelativeDocumentMoniker": "..\\TestSite.Contracts\\TestSite.Contracts.csproj",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\TestSite.Contracts\\TestSite.Contracts.csproj",
+              "RelativeToolTip": "..\\TestSite.Contracts\\TestSite.Contracts.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T07:44:31.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductUpdateQuantityRequest.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\TestSite.Contracts\\Requests\\ProductUpdateQuantityRequest.cs",
+              "RelativeDocumentMoniker": "..\\TestSite.Contracts\\Requests\\ProductUpdateQuantityRequest.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\TestSite.Contracts\\Requests\\ProductUpdateQuantityRequest.cs",
+              "RelativeToolTip": "..\\TestSite.Contracts\\Requests\\ProductUpdateQuantityRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:15:59.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductCreateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\TestSite.Contracts\\Requests\\ProductCreateRequest.cs",
+              "RelativeDocumentMoniker": "..\\TestSite.Contracts\\Requests\\ProductCreateRequest.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\TestSite.Contracts\\Requests\\ProductCreateRequest.cs",
+              "RelativeToolTip": "..\\TestSite.Contracts\\Requests\\ProductCreateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:15:54.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\TestSite.Contracts\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "..\\TestSite.Contracts\\Models\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\TestSite.Contracts\\Models\\ProductDto.cs",
+              "RelativeToolTip": "..\\TestSite.Contracts\\Models\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:15:46.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductInStockEvent.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\TestSite.Contracts\\Events\\ProductInStockEvent.cs",
+              "RelativeDocumentMoniker": "..\\TestSite.Contracts\\Events\\ProductInStockEvent.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\TestSite.Contracts\\Events\\ProductInStockEvent.cs",
+              "RelativeToolTip": "..\\TestSite.Contracts\\Events\\ProductInStockEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:15:29.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "TestSite.ProductService.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\appsettings.json",
+              "RelativeToolTip": "TestSite.ProductService.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T05:33:43.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AuthService\\TestSite.AuthService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\Program.cs",
+              "RelativeToolTip": "..\\AuthService\\TestSite.AuthService.Api\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:12:12.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TestSite.ProductService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\Program.cs*",
+              "RelativeToolTip": "TestSite.ProductService.Api\\Program.cs*",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:04:43.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TestSite.ProductService.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TestSite.ProductService.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T05:03:06.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-14T05:00:47.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestSite.ProductService.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj",
+              "RelativeDocumentMoniker": "TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj",
+              "RelativeToolTip": "TestSite.ProductService.Api\\TestSite.ProductService.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T04:45:26.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductUpdateQuantityRequest.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Contracts\\Requests\\ProductUpdateQuantityRequest.cs",
+              "RelativeDocumentMoniker": "TestSite.ProductService.Contracts\\Requests\\ProductUpdateQuantityRequest.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Contracts\\Requests\\ProductUpdateQuantityRequest.cs",
+              "RelativeToolTip": "TestSite.ProductService.Contracts\\Requests\\ProductUpdateQuantityRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T04:16:16.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductInStockEvent.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Contracts\\Events\\ProductInStockEvent.cs",
+              "RelativeDocumentMoniker": "TestSite.ProductService.Contracts\\Events\\ProductInStockEvent.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Contracts\\Events\\ProductInStockEvent.cs",
+              "RelativeToolTip": "TestSite.ProductService.Contracts\\Events\\ProductInStockEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T03:46:17.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DependencyRegistrar.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\DependencyRegistrar.cs",
+              "RelativeDocumentMoniker": "TestSite.ProductService.Api\\DependencyRegistrar.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\DependencyRegistrar.cs",
+              "RelativeToolTip": "TestSite.ProductService.Api\\DependencyRegistrar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:50:18.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "TestSite.ProductService.Api\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\AutoMapperProfile.cs",
+              "RelativeToolTip": "TestSite.ProductService.Api\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:38:56.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductAppService.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\Abstractions\\IProductAppService.cs",
+              "RelativeDocumentMoniker": "TestSite.ProductService.Api\\Abstractions\\IProductAppService.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\Abstractions\\IProductAppService.cs",
+              "RelativeToolTip": "TestSite.ProductService.Api\\Abstractions\\IProductAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:35:16.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductAppService.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\AppServices\\ProductAppService.cs",
+              "RelativeDocumentMoniker": "TestSite.ProductService.Api\\AppServices\\ProductAppService.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\AppServices\\ProductAppService.cs",
+              "RelativeToolTip": "TestSite.ProductService.Api\\AppServices\\ProductAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:21:42.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductCreateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Contracts\\Requests\\ProductCreateRequest.cs",
+              "RelativeDocumentMoniker": "TestSite.ProductService.Contracts\\Requests\\ProductCreateRequest.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Contracts\\Requests\\ProductCreateRequest.cs",
+              "RelativeToolTip": "TestSite.ProductService.Contracts\\Requests\\ProductCreateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:15:40.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Persistence\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "TestSite.ProductService.Persistence\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Persistence\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "TestSite.ProductService.Persistence\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAlwB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:14:31.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TestSiteCoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Persistence\\Contexts\\TestSiteCoreContext.cs",
+              "RelativeDocumentMoniker": "TestSite.ProductService.Persistence\\Contexts\\TestSiteCoreContext.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Persistence\\Contexts\\TestSiteCoreContext.cs",
+              "RelativeToolTip": "TestSite.ProductService.Persistence\\Contexts\\TestSiteCoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:12:09.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Domain\\Abstractions\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "TestSite.ProductService.Domain\\Abstractions\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Domain\\Abstractions\\IProductRepository.cs",
+              "RelativeToolTip": "TestSite.ProductService.Domain\\Abstractions\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:58:00.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductArgs.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Domain\\Args\\ProductArgs.cs",
+              "RelativeDocumentMoniker": "TestSite.ProductService.Domain\\Args\\ProductArgs.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Domain\\Args\\ProductArgs.cs",
+              "RelativeToolTip": "TestSite.ProductService.Domain\\Args\\ProductArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:52:34.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "TestSite.ProductService.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "TestSite.ProductService.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:45:21.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Contracts\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "TestSite.ProductService.Contracts\\Models\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Contracts\\Models\\ProductDto.cs",
+              "RelativeToolTip": "TestSite.ProductService.Contracts\\Models\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:34:37.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TestSite.ProductService.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TestSite.ProductService.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:19:15.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

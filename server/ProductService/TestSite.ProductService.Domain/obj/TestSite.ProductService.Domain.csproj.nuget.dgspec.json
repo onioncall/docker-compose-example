@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Domain\\TestSite.ProductService.Domain.csproj": {}
+    "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Domain\\TestSite.ProductService.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Domain\\TestSite.ProductService.Domain.csproj": {
+    "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Domain\\TestSite.ProductService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Domain\\TestSite.ProductService.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Domain\\TestSite.ProductService.Domain.csproj",
         "projectName": "TestSite.ProductService.Domain",
-        "projectPath": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Domain\\TestSite.ProductService.Domain.csproj",
+        "projectPath": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Domain\\TestSite.ProductService.Domain.csproj",
         "packagesPath": "C:\\Users\\orion.callaghan\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\Fun-Sandbox\\orion.callaghan\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Domain\\obj\\",
+        "outputPath": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\orion.callaghan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,25 +8,30 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/onion/.nuget/packages/": {}
+    "C:\\Users\\orion.callaghan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/onion/repos/docker-compose-example/server/AuthService/TestSite.AuthService.Contract/TestSite.AuthService.Contract.csproj",
+      "projectUniqueName": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\TestSite.AuthService.Contract.csproj",
       "projectName": "TestSite.AuthService.Contract",
-      "projectPath": "/home/onion/repos/docker-compose-example/server/AuthService/TestSite.AuthService.Contract/TestSite.AuthService.Contract.csproj",
-      "packagesPath": "/home/onion/.nuget/packages/",
-      "outputPath": "/home/onion/repos/docker-compose-example/server/AuthService/TestSite.AuthService.Contract/obj/",
+      "projectPath": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\TestSite.AuthService.Contract.csproj",
+      "packagesPath": "C:\\Users\\orion.callaghan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/onion/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\orion.callaghan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://packagesource": {},
+        "https://packagesource1": {}
       },
       "frameworks": {
         "net8.0": {
@@ -42,9 +47,8 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+        "auditMode": "direct"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -60,22 +64,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.10, 8.0.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.10, 8.0.10]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.100-rc.2.24474.11/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

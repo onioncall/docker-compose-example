@@ -1571,38 +1571,43 @@
     ]
   },
   "packageFolders": {
-    "/home/onion/.nuget/packages/": {}
+    "C:\\Users\\orion.callaghan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/onion/repos/docker-compose-example/server/AuthService/TestSite.AuthService.Api/TestSite.AuthService.Api.csproj",
+      "projectUniqueName": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj",
       "projectName": "TestSite.AuthService.Api",
-      "projectPath": "/home/onion/repos/docker-compose-example/server/AuthService/TestSite.AuthService.Api/TestSite.AuthService.Api.csproj",
-      "packagesPath": "/home/onion/.nuget/packages/",
-      "outputPath": "/home/onion/repos/docker-compose-example/server/AuthService/TestSite.AuthService.Api/obj/",
+      "projectPath": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\TestSite.AuthService.Api.csproj",
+      "packagesPath": "C:\\Users\\orion.callaghan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/onion/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\orion.callaghan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://packagesource": {},
+        "https://packagesource1": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/onion/repos/docker-compose-example/server/AuthService/TestSite.AuthService.Contract/TestSite.AuthService.Contract.csproj": {
-              "projectPath": "/home/onion/repos/docker-compose-example/server/AuthService/TestSite.AuthService.Contract/TestSite.AuthService.Contract.csproj"
+            "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\TestSite.AuthService.Contract.csproj": {
+              "projectPath": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Contract\\TestSite.AuthService.Contract.csproj"
             },
-            "/home/onion/repos/docker-compose-example/server/AuthService/TestSite.AuthService.Domain/TestSite.AuthService.Domain.csproj": {
-              "projectPath": "/home/onion/repos/docker-compose-example/server/AuthService/TestSite.AuthService.Domain/TestSite.AuthService.Domain.csproj"
+            "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj": {
+              "projectPath": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj"
             },
-            "/home/onion/repos/docker-compose-example/server/AuthService/TestSite.AuthService.Persistence/TestSite.AuthService.Persistence.csproj": {
-              "projectPath": "/home/onion/repos/docker-compose-example/server/AuthService/TestSite.AuthService.Persistence/TestSite.AuthService.Persistence.csproj"
+            "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Persistence\\TestSite.AuthService.Persistence.csproj": {
+              "projectPath": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Persistence\\TestSite.AuthService.Persistence.csproj"
             }
           }
         }
@@ -1662,7 +1667,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
