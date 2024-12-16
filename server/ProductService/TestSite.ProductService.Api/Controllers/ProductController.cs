@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using TestSite.Contracts.Requests.Product;
 using TestSite.ProductService.Api.Abstractions;
@@ -33,6 +34,7 @@ public class ProductController : ControllerBase
 	}
 
 	[HttpGet]
+	[Authorize(Roles = "Product,Other")]
 	public async Task<IActionResult> GetProductById([FromQuery] int productId)
 	{
 		var product = await _productAppService.GetProductById(productId);
@@ -46,6 +48,7 @@ public class ProductController : ControllerBase
 	}
 
 	[HttpPut]
+	[Authorize]
 	[Route("update-product-quantity")]
 	public async Task<IActionResult> UpdateProductQuantity(ProductUpdateQuantityRequest request)
 	{

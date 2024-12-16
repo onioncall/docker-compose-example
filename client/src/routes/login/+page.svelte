@@ -16,7 +16,7 @@
 
     const dataLogin = async (username, password) => {
         try {
-            const response = await fetch('http://localhost:8082/api/auth/login-member', {
+            const response = await fetch('/api/auth/login-member', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
@@ -35,7 +35,7 @@
                 return;                
             }
             const token = await response.text();
-            sessionStorage.setItem('jwt', token);
+            localStorage.setItem('jwt', token);
             goto('/product/?productid=1')
         }
         catch (ex) {

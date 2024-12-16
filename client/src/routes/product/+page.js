@@ -12,10 +12,17 @@ export const load = async ({ fetch, url, parent }) => {
     }
 
     try {
-        const response = await fetch(`http://localhost:8080/api/product/?productid=${productId}`);
+		const token = localStorage.getItem('jwt');
+		const response = await fetch(`/api/product/?productid=${productId}`, {
+			headers: {
+				'Authorization': `Bearer ${token}`
+			}
+		});
+
         if (!response.ok) {
             throw new Error('Failed to fetch data');
         }
+
         const product = await response.json();
         
         return {

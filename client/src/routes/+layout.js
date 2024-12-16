@@ -18,20 +18,20 @@ export const load = async ({ url }) => {
     }
 
     try {
-        const token = sessionStorage.getItem('jwt');
+        const token = localStorage.getItem('jwt');
         
         if (token == null) {
             throw redirect(307, '/login');
         }
 
-        const response = await fetch('http://localhost:8082/api/auth/verify-token', {
+        const response = await fetch('/api/auth/verify-token', {
             headers: {
                 'Authorization': `Bearer ${token}`
             }
         });
         
         if (!response.ok) {
-            sessionStorage.removeItem('jwt');
+            localStorage.removeItem('jwt');
             throw redirect(307, '/login');
         }
         
@@ -39,7 +39,7 @@ export const load = async ({ url }) => {
         return { isAuthenticated: true };
     } catch (error) {
         console.error('Auth error:', error);
-        sessionStorage.removeItem('jwt');
+        localStorage.removeItem('jwt');
         throw redirect(307, '/login');
     }
 };

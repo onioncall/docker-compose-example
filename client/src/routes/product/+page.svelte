@@ -8,9 +8,11 @@
 	
     const updateQuantity = async (quantity, productId) => {
         try {
-            const response = await fetch('http://localhost:8080/api/product/update-product-quantity', {
+			const token = localStorage.getItem('jwt');
+            const response = await fetch('/api/product/update-product-quantity', {
                 method: 'PUT',
                 headers: {
+                	'Authorization': `Bearer ${token}`,
                     'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({
