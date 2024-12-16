@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using TestSite.AuthService.Api.Abstractions;
-using TestSite.AuthService.Contract.Requests;
+using TestSite.Contract.Requests.Auth;
 
 namespace TestSite.AuthService.Api.Controllers;
 

@@ -345,12 +345,18 @@
       "System.Threading.RateLimiting/8.0.0": {},
       "TestSite.Contracts/1.0.0": {
         "runtime": {
-          "TestSite.Contracts.dll": {}
+          "TestSite.Contracts.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "TestSite.ProductService.Domain/1.0.0": {
         "runtime": {
-          "TestSite.ProductService.Domain.dll": {}
+          "TestSite.ProductService.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "TestSite.ProductService.Persistence/1.0.0": {
@@ -360,7 +366,10 @@
           "TestSite.ProductService.Domain": "1.0.0"
         },
         "runtime": {
-          "TestSite.ProductService.Persistence.dll": {}
+          "TestSite.ProductService.Persistence.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

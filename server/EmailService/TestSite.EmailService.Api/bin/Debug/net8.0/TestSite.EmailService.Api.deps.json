@@ -15,8 +15,6 @@
           "Microsoft.EntityFrameworkCore": "9.0.0",
           "Swashbuckle.AspNetCore": "6.6.2",
           "TestSite.Contracts": "1.0.0",
-          "TestSite.EmailService.Contract": "1.0.0",
-          "TestSite.EmailService.Contracts": "1.0.0",
           "TestSite.EmailService.Domain": "1.0.0",
           "TestSite.EmailService.Persistence": "1.0.0"
         },
@@ -435,12 +433,18 @@
       "System.Threading.RateLimiting/8.0.0": {},
       "TestSite.Contracts/1.0.0": {
         "runtime": {
-          "TestSite.Contracts.dll": {}
+          "TestSite.Contracts.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "TestSite.EmailService.Domain/1.0.0": {
         "runtime": {
-          "TestSite.EmailService.Domain.dll": {}
+          "TestSite.EmailService.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "TestSite.EmailService.Persistence/1.0.0": {
@@ -450,7 +454,10 @@
           "TestSite.EmailService.Domain": "1.0.0"
         },
         "runtime": {
-          "TestSite.EmailService.Persistence.dll": {}
+          "TestSite.EmailService.Persistence.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

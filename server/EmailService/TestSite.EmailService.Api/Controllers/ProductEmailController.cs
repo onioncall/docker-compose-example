@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using TestSite.Contracts.Requests;
+using TestSite.Contracts.Requests.Email;
 using TestSite.EmailService.Api.Abstractions;
 
 namespace TestSite.EmailService.Api.Controllers;

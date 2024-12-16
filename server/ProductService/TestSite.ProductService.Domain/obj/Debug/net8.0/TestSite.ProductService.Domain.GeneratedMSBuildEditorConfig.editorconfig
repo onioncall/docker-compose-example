@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestSite.ProductService.Domain
-build_property.ProjectDir = /mnt/c/Users/orion.callaghan/Repos/Dotnet/docker-compose-example/server/ProductService/TestSite.ProductService.Domain/
+build_property.ProjectDir = /home/onion/repos/docker-compose-example/server/ProductService/TestSite.ProductService.Domain/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

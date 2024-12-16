@@ -1,5 +1,5 @@
 ﻿using MassTransit;
-using TestSite.Contracts.Events;
+using TestSite.Contracts.Events.Email;
 using TestSite.EmailService.Api.Abstractions;
 using TestSite.EmailService.Domain.Abstractions;
 

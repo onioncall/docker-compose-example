@@ -1,4 +1,4 @@
-﻿using TestSite.Contracts.Requests;
+﻿using TestSite.Contracts.Requests.Product;
 using TestSite.ProductService.Domain.Entities;
 
 namespace TestSite.ProductService.Api.Abstractions;

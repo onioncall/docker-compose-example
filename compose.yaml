@@ -30,11 +30,24 @@ services:
       - ASPNETCORE_URLS=http://+:8086
 
   auth-service:
-    build: ./server/AuthService
+    build: 
+      context: ./server
+      dockerfile: ./AuthService/Dockerfile
     ports: 
       - 8082:8082
     environment: 
       - ASPNETCORE_URLS=http://+:8082
+
+  # generally, you don't need to define your context/dockerfile separate from your build.
+  # It will usually look like this. I have it definied separately above so I can reference my contracts across
+  # multiple solutions/services, but generally you would set them up in a nuget package and not separate your
+  # dockerfile from your context
+  # auth-service:
+  #   build: ./server/AuthService
+  #   ports: 
+  #     - 8082:8082
+  #   environment: 
+  #     - ASPNETCORE_URLS=http://+:8082
 
 
   # Third Party Services

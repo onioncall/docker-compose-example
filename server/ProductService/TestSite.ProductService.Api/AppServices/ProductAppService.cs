@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
 using MassTransit;
-using TestSite.Contracts.Events;
+using TestSite.Contracts.Events.Email;
 using TestSite.ProductService.Api.Abstractions;
-using TestSite.Contracts.Requests;
+using TestSite.Contracts.Requests.Product;
 using TestSite.ProductService.Domain.Abstractions;
 using TestSite.ProductService.Domain.Args;
 using TestSite.ProductService.Domain.Entities;

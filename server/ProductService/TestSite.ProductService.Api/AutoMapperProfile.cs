@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
-using TestSite.Contracts.Models;
-using TestSite.Contracts.Requests;
+using TestSite.Contracts.Requests.Product;
+using TestSite.Contracts.Models.Product;
 using TestSite.ProductService.Domain.Args;
 using TestSite.ProductService.Domain.Entities;
 

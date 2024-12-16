@@ -3,8 +3,8 @@ using TestSite.AuthService.Api.Abstractions;
 using TestSite.AuthService.Domain.Entities;
 using TestSite.AuthService.Domain.Args;
 using TestSite.AuthService.Domain.Abstractions;
-using TestSite.AuthService.Contract.Models;
-using TestSite.AuthService.Contract.Requests;
+using TestSite.Contract.Requests.Auth;
+using TestSite.Contract.Models.Auth;
 
 namespace TestSite.AuthService.Api.AppServices;
 

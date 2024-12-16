@@ -18,6 +18,7 @@
     <ProjectReference Include="..\TestSite.AuthService.Contract\TestSite.AuthService.Contract.csproj" />
     <ProjectReference Include="..\TestSite.AuthService.Domain\TestSite.AuthService.Domain.csproj" />
     <ProjectReference Include="..\TestSite.AuthService.Persistence\TestSite.AuthService.Persistence.csproj" />
+    <ProjectReference Include="..\..\TestSite.Contracts\TestSite.Contracts.csproj" />
   </ItemGroup>
 
 </Project>

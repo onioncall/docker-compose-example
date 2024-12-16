@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using TestSite.Contracts.Requests;
+using TestSite.Contracts.Requests.Product;
 using TestSite.ProductService.Api.Abstractions;
 
 namespace TestSite.ProductService.Api.Controllers;

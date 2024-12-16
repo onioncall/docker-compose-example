@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y2DeKorgPB4=",
+  "dgSpecHash": "HjoB4RiwJq0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\ProductService\\TestSite.ProductService.Domain\\TestSite.ProductService.Domain.csproj",
+  "projectFilePath": "/home/onion/repos/docker-compose-example/server/ProductService/TestSite.ProductService.Domain/TestSite.ProductService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

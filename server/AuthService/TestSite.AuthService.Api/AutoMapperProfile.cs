@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
-using TestSite.AuthService.Contract.Models;
-using TestSite.AuthService.Contract.Requests;
+using TestSite.Contract.Requests.Auth;
+using TestSite.Contract.Models.Auth;
 using TestSite.AuthService.Domain.Args;
 using TestSite.AuthService.Domain.Entities;
 

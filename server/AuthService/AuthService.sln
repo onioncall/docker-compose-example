@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestSite.AuthService.Domain
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestSite.AuthService.Persistence", "TestSite.AuthService.Persistence\TestSite.AuthService.Persistence.csproj", "{1C104A77-DFC7-43B9-887C-8ECB4CBBA480}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestSite.AuthService.Contract", "TestSite.AuthService.Contract\TestSite.AuthService.Contract.csproj", "{1C65B061-4FCE-4F63-99F0-814DF540CED5}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1FE2B781-A6F4-41E2-B1EB-496E3D502B8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSite.Contracts", "..\TestSite.Contracts\TestSite.Contracts.csproj", "{77ABF842-065E-4CD0-BCF0-5A8455AF936F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +35,10 @@ Global
 		{1C65B061-4FCE-4F63-99F0-814DF540CED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C65B061-4FCE-4F63-99F0-814DF540CED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C65B061-4FCE-4F63-99F0-814DF540CED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77ABF842-065E-4CD0-BCF0-5A8455AF936F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77ABF842-065E-4CD0-BCF0-5A8455AF936F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77ABF842-065E-4CD0-BCF0-5A8455AF936F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77ABF842-065E-4CD0-BCF0-5A8455AF936F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

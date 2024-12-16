@@ -1,5 +1,5 @@
-using TestSite.AuthService.Contract.Models;
-using TestSite.AuthService.Contract.Requests;
+using TestSite.Contract.Requests.Auth;
+using TestSite.Contract.Models.Auth;
 
 namespace TestSite.AuthService.Api.Abstractions;
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NjSlwiLCZr4=",
+  "dgSpecHash": "gTGfTlJQ4+c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\orion.callaghan\\Repos\\Dotnet\\docker-compose-example\\server\\AuthService\\TestSite.AuthService.Domain\\TestSite.AuthService.Domain.csproj",
+  "projectFilePath": "/home/onion/repos/docker-compose-example/server/AuthService/TestSite.AuthService.Domain/TestSite.AuthService.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
